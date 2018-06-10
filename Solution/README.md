@@ -1,9 +1,8 @@
 
 ## News Mood Analysis
-* BBC and CNN channels tend to be sending out tweets with negative sentiments this morning (03/29).
-* CBS tweets this morning (03/29) seems to be more towards Positive side.
-* Fox and NY Times seem to be closer to Neutral, with Fox news being more on positive and NY Times a little bit more on negative side.
-
+BBC, CBS, and FOX are all positive with BBC being more positive than the others (06/08).
+CNN tweets this morning (06/08) seems to be more towards Positive side.
+NY Times is a little bit more on negative side.
 #### Load all dependencies
 
 
@@ -244,8 +243,6 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
-
 
 #### Aggregate Compound sentiments
 
@@ -319,5 +316,4 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
 
